@@ -43,12 +43,10 @@ plt.show()
 
 ```
 ## Output
-</br>
-</br>![maths for AI 1](https://user-images.githubusercontent.com/119404951/214740185-22d35463-579b-493c-85e3-220814dc9acb.png)
 
-</br>
-</br>![maths for AI 2](https://user-images.githubusercontent.com/119404951/214740217-5971504c-5fd8-4fd3-8d59-34bccc9e83bd.png)
+![maths for AI 1](https://user-images.githubusercontent.com/119404951/214740362-a7314762-e568-4766-980e-40c7c3d4875a.png)
 
+![maths for AI 2](https://user-images.githubusercontent.com/119404951/214740396-3746b115-8f7f-4e57-9107-3449be3502f8.png)
 
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
